@@ -1,6 +1,6 @@
 function iniciaCronometro() {
   var segundos = 10;
-  var minutos = 0;
+  var minutos = 1;
   var segundosTexto;
   var minutosTexto;
   //Determinar el tiempo en segundo para poder tener un mejor contador recuerda no pasar de 60segundos
